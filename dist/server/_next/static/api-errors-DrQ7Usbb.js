@@ -1,1 +1,0 @@
-function e(e){let t=e instanceof Error?e.message:`Unexpected error`;return console.error(e),Response.json({error:t},{status:500})}function t(){return Response.json({error:`Sign in as an organizer to continue.`},{status:401})}export{t as n,e as t};

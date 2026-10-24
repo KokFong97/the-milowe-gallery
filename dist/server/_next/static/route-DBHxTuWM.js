@@ -1,1 +1,0 @@
-import{t as e}from"./api-errors-DrQ7Usbb.js";import{n as t}from"./event-data-B9_gMOa2.js";import{t as n}from"./guest-upload-BbtbYo9V.js";async function r(r,{params:i}){try{let{code:e}=await i,a=await t(e);return a?n(r,a):Response.json({error:`We could not find that gallery.`},{status:404})}catch(t){return e(t)}}export{r as POST};

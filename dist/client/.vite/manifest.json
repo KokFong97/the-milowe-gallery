@@ -1,6 +1,6 @@
 {
-  "_Icon-Dsrrr-Ct.js": {
-    "file": "_next/static/chunks/Icon-Dsrrr-Ct.js",
+  "_Icon-D8RbUwIv.js": {
+    "file": "_next/static/chunks/Icon-D8RbUwIv.js",
     "name": "Icon",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -17,16 +17,16 @@
       "_record-uXSNv6cl.js"
     ]
   },
-  "_app-route-prefetch-policy-DQBtX8gO.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-DQBtX8gO.js",
+  "_app-route-prefetch-policy-C_DNMAxy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-C_DNMAxy.js",
     "name": "app-route-prefetch-policy",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "virtual:vinext-app-browser-entry"
     ]
   },
-  "_app-rsc-cache-busting-yGuOg2jZ.js": {
-    "file": "_next/static/chunks/app-rsc-cache-busting-yGuOg2jZ.js",
+  "_app-rsc-cache-busting-BMkDrOYz.js": {
+    "file": "_next/static/chunks/app-rsc-cache-busting-BMkDrOYz.js",
     "name": "app-rsc-cache-busting",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
@@ -43,19 +43,28 @@
       "_rolldown-runtime-C60lm6uB.js"
     ]
   },
-  "_browser-BfX1Mn1V.js": {
-    "file": "_next/static/chunks/browser-BfX1Mn1V.js",
+  "_browser-B0JmIpqe.js": {
+    "file": "_next/static/chunks/browser-B0JmIpqe.js",
     "name": "browser",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_loader-circle-CgrbT58K.js"
+      "_createLucideIcon-DQU2cHne.js"
     ]
   },
-  "_camera-D8QIMyLm.js": {
-    "file": "_next/static/chunks/camera-D8QIMyLm.js",
+  "_camera-jEOWGLX-.js": {
+    "file": "_next/static/chunks/camera-jEOWGLX-.js",
     "name": "camera",
     "imports": [
-      "_loader-circle-CgrbT58K.js"
+      "_createLucideIcon-DQU2cHne.js"
+    ]
+  },
+  "_createLucideIcon-DQU2cHne.js": {
+    "file": "_next/static/chunks/createLucideIcon-DQU2cHne.js",
+    "name": "createLucideIcon",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_Icon-D8RbUwIv.js",
+      "_framework-D_rUT4EX.js"
     ]
   },
   "_deployment-id-DFhHa9wO.js": {
@@ -81,45 +90,35 @@
       "_protocol-headers-B9-bVeat.js"
     ]
   },
-  "_link-B0de28xh.js": {
-    "file": "_next/static/chunks/link-B0de28xh.js",
+  "_link-FG9So3Ca.js": {
+    "file": "_next/static/chunks/link-FG9So3Ca.js",
     "name": "link",
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "virtual:vinext-app-browser-entry",
       "_framework-D_rUT4EX.js",
-      "_app-route-prefetch-policy-DQBtX8gO.js",
+      "_app-route-prefetch-policy-C_DNMAxy.js",
       "_deployment-id-DFhHa9wO.js",
       "_protocol-headers-B9-bVeat.js",
-      "_query-A8ra865l.js",
+      "_query-C71H1A5h.js",
       "_record-uXSNv6cl.js"
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
       "virtual:vinext-app-browser-entry",
       "_app-elements-H_Dr48wG.js",
-      "_app-rsc-cache-busting-yGuOg2jZ.js",
+      "_app-rsc-cache-busting-BMkDrOYz.js",
       "_app-rsc-render-mode-CvTCGruk.js",
       "_headers-C_MtfdF4.js"
     ]
   },
-  "_loader-circle-CgrbT58K.js": {
-    "file": "_next/static/chunks/loader-circle-CgrbT58K.js",
-    "name": "loader-circle",
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_Icon-Dsrrr-Ct.js",
-      "_framework-D_rUT4EX.js"
-    ]
-  },
-  "_millowe-logo-Cm1UUl4c.js": {
-    "file": "_next/static/chunks/millowe-logo-Cm1UUl4c.js",
+  "_millowe-logo-Kyqh65nn.js": {
+    "file": "_next/static/chunks/millowe-logo-Kyqh65nn.js",
     "name": "millowe-logo",
     "imports": [
-      "_loader-circle-CgrbT58K.js",
-      "_camera-D8QIMyLm.js",
+      "_camera-jEOWGLX-.js",
       "_framework-D_rUT4EX.js",
-      "_link-B0de28xh.js"
+      "_link-FG9So3Ca.js"
     ]
   },
   "_navigation-errors-D5LMQqDL.js": {
@@ -130,12 +129,20 @@
       "_framework-D_rUT4EX.js"
     ]
   },
+  "_photo-ranking-BipnEOq1.js": {
+    "file": "_next/static/chunks/photo-ranking-BipnEOq1.js",
+    "name": "photo-ranking",
+    "imports": [
+      "_createLucideIcon-DQU2cHne.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
   "_protocol-headers-B9-bVeat.js": {
     "file": "_next/static/chunks/protocol-headers-B9-bVeat.js",
     "name": "protocol-headers"
   },
-  "_query-A8ra865l.js": {
-    "file": "_next/static/chunks/query-A8ra865l.js",
+  "_query-C71H1A5h.js": {
+    "file": "_next/static/chunks/query-C71H1A5h.js",
     "name": "query"
   },
   "_record-uXSNv6cl.js": {
@@ -146,91 +153,90 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
-  "_trophy-BkiKD5Mu.js": {
-    "file": "_next/static/chunks/trophy-BkiKD5Mu.js",
-    "name": "trophy",
-    "imports": [
-      "_loader-circle-CgrbT58K.js"
-    ]
-  },
-  "_x-DhGupRyE.js": {
-    "file": "_next/static/chunks/x-DhGupRyE.js",
+  "_x-DwwGJ-d5.js": {
+    "file": "_next/static/chunks/x-DwwGJ-d5.js",
     "name": "x",
     "imports": [
-      "_loader-circle-CgrbT58K.js"
+      "_createLucideIcon-DQU2cHne.js"
     ]
   },
   "components/guest-event.tsx": {
-    "file": "_next/static/chunks/guest-event-C7LEscYu.js",
+    "file": "_next/static/chunks/guest-event-CMZFnwFU.js",
     "name": "guest-event",
     "src": "components/guest-event.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_millowe-logo-Cm1UUl4c.js",
-      "_loader-circle-CgrbT58K.js",
-      "_x-DhGupRyE.js",
-      "_camera-D8QIMyLm.js",
-      "_trophy-BkiKD5Mu.js",
+      "_millowe-logo-Kyqh65nn.js",
+      "_photo-ranking-BipnEOq1.js",
+      "_createLucideIcon-DQU2cHne.js",
+      "_camera-jEOWGLX-.js",
+      "_x-DwwGJ-d5.js",
       "_framework-D_rUT4EX.js"
     ]
   },
-  "components/host-dashboard.tsx": {
-    "file": "_next/static/chunks/host-dashboard-ZO7pxwAd.js",
-    "name": "host-dashboard",
-    "src": "components/host-dashboard.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_millowe-logo-Cm1UUl4c.js",
-      "_loader-circle-CgrbT58K.js",
-      "_camera-D8QIMyLm.js",
-      "_framework-D_rUT4EX.js",
-      "_link-B0de28xh.js"
-    ]
-  },
   "components/host-event-studio.tsx": {
-    "file": "_next/static/chunks/host-event-studio-1DJp0FjM.js",
+    "file": "_next/static/chunks/host-event-studio-C74XIl7D.js",
     "name": "host-event-studio",
     "src": "components/host-event-studio.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_browser-BfX1Mn1V.js",
-      "_loader-circle-CgrbT58K.js",
-      "_x-DhGupRyE.js",
-      "_trophy-BkiKD5Mu.js",
+      "_photo-ranking-BipnEOq1.js",
+      "_browser-B0JmIpqe.js",
+      "_createLucideIcon-DQU2cHne.js",
+      "_x-DwwGJ-d5.js",
       "_framework-D_rUT4EX.js",
-      "_link-B0de28xh.js"
+      "_link-FG9So3Ca.js"
     ]
   },
   "components/live-wall.tsx": {
-    "file": "_next/static/chunks/live-wall-NfsUPWIh.js",
+    "file": "_next/static/chunks/live-wall-Cz2fy_YX.js",
     "name": "live-wall",
     "src": "components/live-wall.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
-      "_browser-BfX1Mn1V.js",
-      "_loader-circle-CgrbT58K.js",
-      "_camera-D8QIMyLm.js",
-      "_trophy-BkiKD5Mu.js",
+      "_photo-ranking-BipnEOq1.js",
+      "_browser-B0JmIpqe.js",
+      "_camera-jEOWGLX-.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/wedding-setup.tsx": {
+    "file": "_next/static/chunks/wedding-setup-B1wRrJ-j.js",
+    "name": "wedding-setup",
+    "src": "components/wedding-setup.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_millowe-logo-Kyqh65nn.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/welcome-splash.tsx": {
+    "file": "_next/static/chunks/welcome-splash-CNv9L3KN.js",
+    "name": "welcome-splash",
+    "src": "components/welcome-splash.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
       "_framework-D_rUT4EX.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
-    "file": "_next/static/chunks/hybrid-client-route-owner-C71uweRz.js",
+    "file": "_next/static/chunks/hybrid-client-route-owner-C62eEjfn.js",
     "name": "hybrid-client-route-owner",
     "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
     "isDynamicEntry": true,
     "imports": [
       "virtual:vinext-app-browser-entry",
       "_protocol-headers-B9-bVeat.js",
-      "_query-A8ra865l.js"
+      "_query-C71H1A5h.js"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-DQp-B47x.js",
+    "file": "_next/static/chunks/layout-segment-context-Coo1s3nH.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -242,7 +248,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/streamed-icons.js": {
-    "file": "_next/static/chunks/streamed-icons-uwe02LWL.js",
+    "file": "_next/static/chunks/streamed-icons-DD-j-qoc.js",
     "name": "streamed-icons",
     "src": "node_modules/vinext/dist/shims/streamed-icons.js",
     "isDynamicEntry": true,
@@ -252,7 +258,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-uKCWqjCx.js",
+    "file": "_next/static/chunks/index-wJS3uky7.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -260,7 +266,7 @@
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-D_rUT4EX.js",
       "_app-elements-H_Dr48wG.js",
-      "_app-rsc-cache-busting-yGuOg2jZ.js",
+      "_app-rsc-cache-busting-BMkDrOYz.js",
       "_headers-C_MtfdF4.js",
       "_navigation-errors-D5LMQqDL.js",
       "_hash-Cp347hhd.js",
@@ -268,16 +274,17 @@
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
-      "_app-route-prefetch-policy-DQBtX8gO.js",
+      "_app-route-prefetch-policy-C_DNMAxy.js",
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
       "components/live-wall.tsx",
-      "_Icon-Dsrrr-Ct.js",
+      "_Icon-D8RbUwIv.js",
       "components/host-event-studio.tsx",
       "node_modules/vinext/dist/shims/streamed-icons.js",
+      "components/wedding-setup.tsx",
       "components/guest-event.tsx",
-      "_link-B0de28xh.js",
-      "components/host-dashboard.tsx"
+      "_link-FG9So3Ca.js",
+      "components/welcome-splash.tsx"
     ]
   }
 }
