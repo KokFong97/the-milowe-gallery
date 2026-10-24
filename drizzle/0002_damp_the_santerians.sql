@@ -1,0 +1,1 @@
+ALTER TABLE `events` ADD `judging_category_id` text;

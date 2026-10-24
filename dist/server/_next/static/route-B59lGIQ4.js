@@ -1,0 +1,1 @@
+import{t as e}from"./api-errors-DrQ7Usbb.js";import{i as t,n}from"./event-data-B9_gMOa2.js";async function r(r,{params:i}){try{let{code:e}=await i,r=await n(e);return r?Response.json(await t(r.id,!1),{headers:{"Cache-Control":`no-store`}}):Response.json({error:`We could not find that event.`},{status:404})}catch(t){return e(t)}}export{r as GET};

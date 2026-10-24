@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1792241304718,
+      "tag": "0000_smart_morbius",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1792858207636,
+      "tag": "0001_tense_mordo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792858883737,
+      "tag": "0002_damp_the_santerians",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1792859135882,
+      "tag": "0003_luxuriant_nocturne",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1792859886025,
+      "tag": "0004_curious_cobalt_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1792860266425,
+      "tag": "0005_omniscient_magma",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1792861101062,
+      "tag": "0006_nasty_payback",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1792863138937,
+      "tag": "0007_foamy_master_chief",
+      "breakpoints": true
+    }
+  ]
+}

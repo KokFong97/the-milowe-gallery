@@ -1,0 +1,1 @@
+import{t as e}from"./api-errors-DrQ7Usbb.js";import{r as t}from"./event-data-B9_gMOa2.js";import{t as n}from"./guest-upload-BbtbYo9V.js";async function r(r){try{let e=await t();return e?n(r,e):Response.json({error:`The wedding gallery is not ready yet.`},{status:404})}catch(t){return e(t)}}export{r as POST};
